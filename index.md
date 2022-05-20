@@ -2,21 +2,20 @@
 
 layout: col-sidebar
 title: OWASP crAPI
-tags: example-tag
+tags: crapi
 level: 1
-type: 
-pitch: A very brief, one-line description of your project
+type: tool
+pitch: crAPI will help you to understand the ten most critical API security risks. crAPI is vulnerable by design, but you'll be able to safely run it to educate/train yourself.
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+crAPI stands for “Completely Ridiculous API”.  It simulates an API-driven, microservice-based web application that is a platform for vehicle owners.
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+Following in the footsteps of Webgoat and JuiceShop, crAPI is an intentionally vulnerable application. However, crAPI is primarily filled with API vulnerabilities for the purpose of teaching, learning, and practicing API security.
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+You will not find the mundane XSS and SQLi challenges in crAPI. crAPI specializes in the common vulnerabilities that happen in modern API-based applications, including all those in the OWASP Top 10 for APIs. All the challenges in crAPI are based on real-life vulnerabilities that were found in APIs of big companies like Facebook, Uber, and Shopify. 
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+crAPI exposes many different vulnerabilities, some of them are easy to find, and others require multiple steps and some creativity to exploit.
 
-type: code, tool, documentation, or other
+Enjoy exploring and learning with crAPI!
