@@ -1,4 +1,4 @@
-### Code Repository
-* [repo](https://github.com/OWASP/crAPI)
+### Sources
+* [GitHub](https://github.com/OWASP/crAPI)
 
 
