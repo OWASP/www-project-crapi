@@ -9,6 +9,7 @@ pitch: crAPI will help you to understand the ten most critical API security risk
 
 ---
 
+## What is crAPI? 
 crAPI stands for “Completely Ridiculous API”.  It simulates an API-driven, microservice-based web application that is a platform for vehicle owners.
 
 
@@ -16,6 +17,5 @@ Following in the footsteps of Webgoat and JuiceShop, crAPI is an intentionally v
 
 You will not find the mundane XSS and SQLi challenges in crAPI. crAPI specializes in the common vulnerabilities that happen in modern API-based applications, including all those in the OWASP Top 10 for APIs. All the challenges in crAPI are based on real-life vulnerabilities that were found in APIs of big companies like Facebook, Uber, and Shopify. 
 
-crAPI exposes many different vulnerabilities, some of them are easy to find, and others require multiple steps and some creativity to exploit.
+crAPI exposes many different vulnerabilities with a range of difficulties — some of them are easy to find, and others require multiple steps, brain cracking and creativity to exploit. Enjoy exploring and learning with crAPI!
 
-Enjoy exploring and learning with crAPI!
