@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP crAPI
 tags: crapi
-level: 1
+level: 2
 type: tool
 pitch: crAPI will help you to understand the ten most critical API security risks. crAPI is vulnerable by design, but you'll be able to safely run it to educate/train yourself.
 
