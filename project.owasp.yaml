@@ -1,0 +1,34 @@
+audience:
+  - builder
+community:
+  - name: crapi
+    platform: slack
+    url: https://owasp.slack.com/archives/C03EYNEM2TV
+    description: "completely ridiculous API (crAPI) will help you to understand the most critical API security risks. crAPI is vulnerable by design, but\
+      \ you'll be able to safely run it to educate/train yourself.\n\n<https://github.com/owasp/crapi>"
+leaders:
+  - name: Inon Shkedy
+    email: inon.shkedy@owasp.org
+    github: inonshk
+  - name: Roshan Piyush
+    email: roshan.piyush@owasp.org
+    github: piyushroshan
+level: 2
+license:
+  - Apache-2.0
+name: OWASP crAPI
+pitch: crAPI will help you to understand the ten most critical API security risks. crAPI is vulnerable by design, but you'll be able to safely run it to
+  educate/train yourself.
+repositories:
+  - name: www-project-crapi
+    url: https://github.com/OWASP/www-project-crapi
+    description: OWASP Foundation Web Repository
+  - name: crAPI
+    url: https://github.com/OWASP/crAPI
+    description: completely ridiculous API (crAPI)
+tags:
+  - crapi
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-crapi
